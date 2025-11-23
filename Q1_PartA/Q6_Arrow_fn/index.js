@@ -1,0 +1,1 @@
+const multiply= multiply(a,b)=> a*b
